@@ -27,3 +27,6 @@ Proporciona una interfaz de usuario mediante un **menú interactivo** que permit
 
 ## Ejecución  
 El programa se ejecuta desde el archivo GestionEmpleados
+
+## Dato Extra
+Cuando se vaya a hacer el ordenamiento por nombre o por salario, se tiene que poner true si se quiere de forma ascendente y false si se quiere de forma descendente
